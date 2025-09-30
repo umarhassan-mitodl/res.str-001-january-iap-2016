@@ -1,0 +1,15 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b500ca0a-cd5e-89c3-277a-5218c379bbb8
+  name: Introduction to GIS
+  pageRef: /pages/introduction-to-gis
+  weight: 10
+- identifier: cd486526-6db2-7a4c-6d2a-83b8b78cef23
+  name: Spatial Data
+  pageRef: /pages/spatial-data
+  weight: 20
+- identifier: e50033f1-49a6-f59d-6646-e17cae4d4fc2
+  name: Spatial Statistics
+  pageRef: /pages/spatial-statistics
+  weight: 30
