@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains an introduction to spatial statistics and two practice
   exercises.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Spatial Statistics
@@ -14,7 +12,7 @@ The following material was drawn from a workshop on Spatial Statistics given at 
 
 {{% resource_link ae9e1c3e-67ee-9d1b-572a-124dc922ec42 "Introduction to Spatial Statistics (PDF - 3.5MB)" %}}
 
-_Note: [ArcGIS](https://www.arcgis.com/features/) is a paid program available to the MIT Community. Geoda is a free program available from [Arizona State University](https://geodacenter.asu.edu/)._
+_Note: {{% resource_link "e640078d-5394-4391-9a6c-19923ab4755e" "ArcGIS" %}} is a paid program available to the MIT Community. Geoda is a free program available from {{% resource_link "93f34713-3c39-440c-abb7-0f45999d9e1f" "Arizona State University" %}}._
 
 {{< tableopen >}}
 {{< theadopen >}}
